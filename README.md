@@ -26,3 +26,8 @@ Data /Hora Ocorrência: 12/08/2020 08:34:10
 Status: Em transferência entre CDs da transportadora -
 
 -------------------------------------------------------------
+Data /Hora Ocorrência: 14/08/2020 10:09:28
+
+Status: Em transferência entre CDs da transportadora -
+
+-------------------------------------------------------------
